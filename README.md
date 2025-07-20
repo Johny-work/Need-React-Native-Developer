@@ -59,7 +59,8 @@ I’ve reviewed your Upwork profile and was impressed by your **Top Rated** stat
 Please send your **resume**, **portfolio**, or **GitHub profile** to:
 
 **John Pander**  
-📧 **johnpander@gmail.com**
+📧 **johnpander@gmail.com**  
+💬 Reach out to me directly on **Telegram**: [@johnpander](https://t.me/johnpander)
 
 ---
 
