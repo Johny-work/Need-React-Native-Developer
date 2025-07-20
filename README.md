@@ -1,22 +1,27 @@
-# React Native Developer (Full-Time, 6-Month Contract)
+# React Native Developer – Full-Time (6-Month Contract)
 
 ## Overview
-We’re seeking a **React Native Developer** to join our team full-time on a **6-month contract**. You’ll help build and maintain high-quality mobile applications using modern frameworks and best practices, collaborating closely with our design and development teams.
+
+I’m looking for an **experienced React Native Developer** to collaborate with me full-time on a **6-month contract**. This project involves building and maintaining high-quality mobile applications using modern frameworks and best practices.
+
+I’ve reviewed your Upwork profile and was impressed by your **Top Rated** status and **100% Job Success** — I believe you could be a great fit for this project.
 
 ---
 
 ## Key Responsibilities
+
 - Build and maintain cross-platform mobile apps using **React Native** and **TypeScript**.
 - Develop reusable UI components using **component-driven development** (e.g., Storybook).
-- Handle state management with **Redux** and manage navigation using **React Navigation**.
+- Handle state management with **Redux** and navigation using **React Navigation**.
 - Implement UI based on **Figma design handoffs**.
 - Optimize performance, troubleshoot bugs, and deliver clean, maintainable code.
 - Use **Git workflow** (branches, pull requests, code reviews) for collaboration.
-- Participate in sprint planning, reviews, and technical discussions.
+- Participate in planning, reviews, and technical discussions.
 
 ---
 
 ## Key Skills
+
 - **React Native**, **TypeScript**, **Redux**, **React Navigation**
 - **Figma design handoffs** and responsive UI development
 - **Component-driven development** (Storybook preferred)
@@ -29,6 +34,7 @@ We’re seeking a **React Native Developer** to join our team full-time on a **6
 ---
 
 ## Preferred Skills
+
 - Experience with:
   - Firebase or similar backend services
   - Push notifications
@@ -40,11 +46,21 @@ We’re seeking a **React Native Developer** to join our team full-time on a **6
 ---
 
 ## Contract Details
+
 - **Full-Time**: 40 hours/week  
-- **Contract Duration**: 6 months (with possible extension)  
+- **Contract Duration**: 6 months (possible extension)  
 - **Hourly Rate**: $7 – $12 (based on experience)  
 - **Location**: Remote  
 
 ---
 
-If you're experienced in mobile development and ready for a stable, collaborative role, we’d love to hear from you!
+## How to Apply
+
+Please send your **resume**, **portfolio**, or **GitHub profile** to:
+
+**John Pander**  
+📧 **johnpander@gmail.com**
+
+---
+
+If you're interested, I’d be happy to discuss the project in more detail and collaborate directly with you.
